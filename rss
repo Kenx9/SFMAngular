@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<title>GAH issues</title>
+<link href="/other_entities/gah/issues.atom?feed_token=AjzWYBu24Rv6cSqh4Ksb&amp;sort=created_date&amp;state=opened" rel="self" type="application/atom+xml"/>
+<link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues" rel="alternate" type="text/html"/>
+<id>http://gitlab-bian.uib.socgen/other_entities/gah/issues</id>
+<updated>2019-12-18T11:31:02Z</updated>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/47</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/47"/>
+  <title>Import d&amp;#39;un fichier de clients pour mise à jour</title>
+  <updated>2019-12-18T11:31:02Z</updated>
+  <media:thumbnail width="40" height="40" url="https://www.gravatar.com/avatar/9e4a1dde7908062d9dce96bc79f7786f?s=80&amp;d=identicon"/>
+  <author>
+    <name>Salma DELI</name>
+    <email></email>
+  </author>
+  <summary>Import d'un fichier de clients pour mise à jour</summary>
+  <description>Lors de l'import d'un fichier de clients pour mettre à jour le choix de l'association, la modification s'effectue mais elle n'est pas sauvegardée dans l'historique:
+
+![image](/uploads/027cacfb5d3167dcf2a5ea4ab0183d0d/image.png)
+![image](/uploads/2b52009273dfbb773095371f87e0f0ef/image.png)
+![image](/uploads/9f9acf8b880bf2410bc8ab049357df61/image.png)
+![image](/uploads/8fd20db57e2a7901ec2ec8527281e1bb/image.png)
+![image](/uploads/10d370e79d727c4887d6dc7dcf77987f/image.png)
+![image](/uploads/b2e1a3bb088a003f8963b9981c030364/image.png)
+
+
+Merci de votre intervention.</description>
+  <milestone>Homologation Epargne solidaire</milestone>
+  <labels>
+    <label>Epargne solidaire</label>
+    <label>HMLG</label>
+    <label>DOING</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Nesrine_Besbes</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Nesrine_Besbes</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/46</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/46"/>
+  <title>Edition des attestations</title>
+  <updated>2019-12-20T10:42:54Z</updated>
+  <media:thumbnail width="40" height="40" url="https://www.gravatar.com/avatar/9e4a1dde7908062d9dce96bc79f7786f?s=80&amp;d=identicon"/>
+  <author>
+    <name>Salma DELI</name>
+    <email></email>
+  </author>
+  <summary>Edition des attestations</summary>
+  <description>Bonjour, 
+
+Lors du lancement de l'édition d'une attestation de versement, rien ne s'affiche:
+
+![image](/uploads/d404dc27a3e91239337ff4bc4d730582/image.png)
+![image](/uploads/06e7ceb2290722ce3d1051b85bafb6e3/image.png)
+
+Merci de votre intervention :)</description>
+  <milestone>Homologation Epargne solidaire</milestone>
+  <labels>
+    <label>Epargne solidaire</label>
+    <label>HMLG</label>
+    <label>DOING</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Nesrine_Besbes</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Nesrine_Besbes</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/45</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/45"/>
+  <title>Corrections à apporter-- Ebanka</title>
+  <updated>2019-12-13T11:58:02Z</updated>
+  <media:thumbnail width="40" height="40" url="http://gitlab-bian.uib.socgen/uploads/-/system/user/avatar/15/Screenshot_20190926-161456.jpg"/>
+  <author>
+    <name>Haythem HUIJI</name>
+    <email></email>
+  </author>
+  <summary>Corrections à apporter-- Ebanka</summary>
+  <description>Bonjour,
+
+Nous avons quelques corrections à apporter par rapports aux points suivants:
+
+Une mise à jour doit être effectuée sur le statut **Stat07** **« Demande clôturée »**  qui sera  **« Demande Archivée »**.
+
+Le bouton « Clôturer Demande » doit être remplacé par **« Archiver Demande »**.
+
+Les demandes archivées doivent restées attribuées aux **« Archives »**  et non pas au gestionnaire du client.</description>
+  <milestone>Homologation EBANKA</milestone>
+  <labels>
+    <label>E-BANKA</label>
+    <label>HMLG</label>
+    <label>Verifying</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Haythem HUIJI</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Haythem HUIJI</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/44</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/44"/>
+  <title>[E-Banka HMLG]: Demande doublement initiée avec la même fiche client et la mê...</title>
+  <updated>2019-12-13T14:52:42Z</updated>
+  <media:thumbnail width="40" height="40" url="https://www.gravatar.com/avatar/9e4a1dde7908062d9dce96bc79f7786f?s=80&amp;d=identicon"/>
+  <author>
+    <name>Salma DELI</name>
+    <email></email>
+  </author>
+  <summary>[E-Banka HMLG]: Demande doublement initiée avec la même fiche client et la même référence E-Banka</summary>
+  <description>Bonjour,
+Il est possible d'initier plusieurs demandes d'ouverture de compte sur le workflow E-Banka avec la même fiche client et la même référence:
+![image](/uploads/7189b0c1a581e5e04abd441d48cbfd22/image.png)
+![image](/uploads/7af07707ced7ccab8623755b7cb7d059/image.png)
+![image](/uploads/8cb7f57f9ec4f244e00a012b6e850f12/image.png)
+
+Merci de votre intervention afin de corriger cette anomalie.</description>
+  <milestone>Homologation EBANKA</milestone>
+  <labels>
+    <label>E-BANKA</label>
+    <label>HMLG</label>
+    <label>Verifying</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Salma DELI</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Salma DELI</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/42</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/42"/>
+  <title>Demande Ebanka attribué à la même personne à l’étape (validation RCR) et l&amp;#39;ét...</title>
+  <updated>2019-12-12T09:35:12Z</updated>
+  <media:thumbnail width="40" height="40" url="http://gitlab-bian.uib.socgen/uploads/-/system/user/avatar/14/ons-compressor.jpg"/>
+  <author>
+    <name>Ons MECHERGUI</name>
+    <email></email>
+  </author>
+  <summary>Demande Ebanka attribué à la même personne à l’étape (validation RCR) et l'étape (validation AMLO)</summary>
+  <description>Pour les cas PPE=oui/non , Classification Risque = élevé ,Statut FATCA = Oui , les demandes EBanka sont attribuée nominativement à bh002483
+HAMROUNI LEILA à l’étape (validation RCR) et à l'étape (validation AMLO).  
+
+
+Exemple= EBANKA-40 , EBANKA-37</description>
+  <labels>
+    <label>E-BANKA</label>
+    <label>HMLG</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Marouane BEL HADJ SALAH</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Marouane BEL HADJ SALAH</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/38</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/38"/>
+  <title>Authentification ----- Epargne Solidaire HMLG</title>
+  <updated>2019-12-05T10:30:07Z</updated>
+  <media:thumbnail width="40" height="40" url="https://www.gravatar.com/avatar/9e4a1dde7908062d9dce96bc79f7786f?s=80&amp;d=identicon"/>
+  <author>
+    <name>Salma DELI</name>
+    <email></email>
+  </author>
+  <summary>Authentification ----- Epargne Solidaire HMLG</summary>
+  <description>Bonjour,
+Selon le cahier des charges, l'utilisateurs'authentifie avec son Login et mot de passe, les mêmes existants dans la base de données de l’AD de la banque (bh00+matricule/mot de passe de la session windows).
+L'authentification se fait actuellement en saisissant le matricule dans les 2 champs de login et mot de passe.
+
+![image](/uploads/58bdcc4b29b3c5e181481f4bdc565728/image.png)
+![image](/uploads/28623fdc6d1b2621914553b7491df6c0/image.png)
+![image](/uploads/a50caeb13445b0e52c60e2c7b08539bf/image.png)
+
+Nous vous remercions de tenir en considération cette mise à jour dans le prochain lot.</description>
+  <milestone>Homologation Epargne solidaire</milestone>
+  <labels>
+    <label>Epargne solidaire</label>
+    <label>HMLG</label>
+    <label>Verifying</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Salma DELI</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Salma DELI</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/36</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/36"/>
+  <title>statut 2</title>
+  <updated>2019-12-10T14:11:38Z</updated>
+  <media:thumbnail width="40" height="40" url="https://www.gravatar.com/avatar/7108d28e17fed58979ce5da796d2ec5e?s=80&amp;d=identicon"/>
+  <author>
+    <name>Hela Marzougui</name>
+    <email></email>
+  </author>
+  <summary>statut 2</summary>
+  <description>Bonjour
+
+Merci de vérifier statut 2 pour le cas :
+
+Risque élevé	Fatca	PPE  
+Oui	        Non	  Non
+
+au niveau cahier de charge=  Step02 Statut: En attente de la validation KYC du RCR 
+au niveau WF:   statut 2 = Step02 Statut: En attente de la validation KYC du AMLO 
+
+==&lt; Nous vous remercions de vérifier les différents statuts.</description>
+  <labels>
+    <label>E-BANKA</label>
+    <label>Verifying</label>
+    <label>HMLG</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Hela Marzougui</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Hela Marzougui</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/35</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/35"/>
+  <title>Demande initiée mais non attribuée----WF E-Banka</title>
+  <updated>2019-12-10T14:10:36Z</updated>
+  <media:thumbnail width="40" height="40" url="https://www.gravatar.com/avatar/9e4a1dde7908062d9dce96bc79f7786f?s=80&amp;d=identicon"/>
+  <author>
+    <name>Salma DELI</name>
+    <email></email>
+  </author>
+  <summary>Demande initiée mais non attribuée----WF E-Banka</summary>
+  <description>Bonjour,
+J'ai initié une demande d'ouverture de compte sur E-Banka pour un tunisien résident à l'étranger (étudiant). Or, la demande est initiée mais non attribuée. Ci-dessous les captures d'écran:
+![image](/uploads/a924348172f4a7b66a3a5bc928af75d0/image.png)
+![image](/uploads/1bb2dea5f4e2f409ccabd63c59e0df4d/image.png)
+
+Merci de  votre intervention.</description>
+  <milestone>Homologation EBANKA</milestone>
+  <labels>
+    <label>E-BANKA</label>
+    <label>HMLG</label>
+    <label>Verifying</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Salma DELI</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Salma DELI</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/34</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/34"/>
+  <title>Statuts ----WF / CAHIER DE CHARGE---</title>
+  <updated>2019-12-03T12:06:52Z</updated>
+  <media:thumbnail width="40" height="40" url="https://www.gravatar.com/avatar/7108d28e17fed58979ce5da796d2ec5e?s=80&amp;d=identicon"/>
+  <author>
+    <name>Hela Marzougui</name>
+    <email></email>
+  </author>
+  <summary>Statuts ----WF / CAHIER DE CHARGE---</summary>
+  <description>Bonjour,
+Nous vous prions de nous instruire sur les statuts affichés au niveau du WF par rapport à ceux au niveau cahier de charge.
+LE TEXTE N'est pas le même: 
+( Statut1: "En attente de la validation KYC du RA"   et au niveau WF: "Entree en relation en attente RA").
+
+Clt</description>
+  <labels>
+    <label>HMLG</label>
+    <label>E-BANKA</label>
+    <label>Verifying</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Hela Marzougui</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Hela Marzougui</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/33</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/33"/>
+  <title>[E-banka] HMLG des MAJ du WF</title>
+  <updated>2019-12-02T15:19:27Z</updated>
+  <media:thumbnail width="40" height="40" url="https://www.gravatar.com/avatar/7108d28e17fed58979ce5da796d2ec5e?s=80&amp;d=identicon"/>
+  <author>
+    <name>Hela Marzougui</name>
+    <email></email>
+  </author>
+  <summary>[E-banka] HMLG des MAJ du WF</summary>
+  <description>Bonjour,
+
+Dans le cadre du test du WF E-banka, nous vous informons que le N° de téléphone n’est pas récupéré lors de la création des  demandes d'ouverture de compte. Exemple cli= 01685938
+ Merci de votre intervention.</description>
+  <labels>
+    <label>HMLG</label>
+    <label>E-BANKA</label>
+    <label>Verifying</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Hela Marzougui</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Hela Marzougui</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/28</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/28"/>
+  <title>Modification du statut d&amp;#39;un client n&amp;#39;est pas possible</title>
+  <updated>2019-12-05T10:14:32Z</updated>
+  <media:thumbnail width="40" height="40" url="https://www.gravatar.com/avatar/9e4a1dde7908062d9dce96bc79f7786f?s=80&amp;d=identicon"/>
+  <author>
+    <name>Salma DELI</name>
+    <email></email>
+  </author>
+  <summary>Modification du statut d'un client n'est pas possible</summary>
+  <description>Bonjour,
+
+Au niveau du groupe fonctionnel "gestion des clients", il n'est pas possible de modifier le statut d'un client. A noter que cette fonctionnalité est demandée au niveau du cahier de charges. Ci-joint le fichier des captures d'écran
+
+Merci d'avance.
+
+[captures_4.docx](/uploads/b190197780a43eae9f0ae2e05c577e35/captures_4.docx)</description>
+  <milestone>Homologation Epargne solidaire</milestone>
+  <labels>
+    <label>Verifying</label>
+    <label>Epargne solidaire</label>
+    <label>HMLG</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Salma DELI</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Salma DELI</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/23</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/23"/>
+  <title>Etape validation KYC n&amp;#39;apparait pas au début et apparait après la validation ...</title>
+  <updated>2019-11-29T14:38:53Z</updated>
+  <media:thumbnail width="40" height="40" url="http://gitlab-bian.uib.socgen/uploads/-/system/user/avatar/15/Screenshot_20190926-161456.jpg"/>
+  <author>
+    <name>Haythem HUIJI</name>
+    <email></email>
+  </author>
+  <summary>Etape validation KYC n'apparait pas au début et apparait après la validation de l'entrée en relation</summary>
+  <description>Bonjour,
+Selon le cahier de charge lors de la création de la demande pour un client avec Risque LAB ( Faible ou moyennement faible) Fatca Non et PPE Oui, la demande doit être soumise pour validation KYC par le RA puis la validation KYC par l'amlo ensuite après la validation de l'entrée en relation elle doit être soumise pour validation Conformité Juridique RA.
+
+![Demande_crée_vers_Amlo_sans_validation_KYC_RA](/uploads/22392d639c25ed0db1c8ae0b92b432f9/Demande_crée_vers_Amlo_sans_validation_KYC_RA.png)![validation_Conformité_juridique_RA](/uploads/04fd6ca9ba8efc35d8410693d2e280e0/validation_Conformité_juridique_RA.png)
+![status](/uploads/d44f4d55a4aa6cf8add9bc3ec8d996ce/status.PNG)</description>
+  <milestone>Homologation EBANKA</milestone>
+  <labels>
+    <label>E-BANKA</label>
+    <label>HMLG</label>
+    <label>Not applicable</label>
+    <label>Verifying</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Haythem HUIJI</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Haythem HUIJI</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/20</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/20"/>
+  <title>e banka_refenrence dossier physique</title>
+  <updated>2019-10-08T17:05:18Z</updated>
+  <media:thumbnail width="40" height="40" url="https://www.gravatar.com/avatar/7108d28e17fed58979ce5da796d2ec5e?s=80&amp;d=identicon"/>
+  <author>
+    <name>Hela Marzougui</name>
+    <email></email>
+  </author>
+  <summary>e banka_refenrence dossier physique</summary>
+  <description>merci de nous donner plus de précision sur la valeur à saisir au niveau du champ " référence du dossier physique" : ( du CC vers ROC)</description>
+  <labels>
+    <label>Not applicable</label>
+    <label>E-BANKA</label>
+    <label>HMLG</label>
+    <label>Verifying</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Hela Marzougui</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Hela Marzougui</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/19</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/19"/>
+  <title>e banka---acheminement erronée d&amp;#39;une demande : PPR=FATNA=non et Classificatio...</title>
+  <updated>2019-10-08T17:01:08Z</updated>
+  <media:thumbnail width="40" height="40" url="https://www.gravatar.com/avatar/7108d28e17fed58979ce5da796d2ec5e?s=80&amp;d=identicon"/>
+  <author>
+    <name>Hela Marzougui</name>
+    <email></email>
+  </author>
+  <summary>e banka---acheminement erronée d'une demande : PPR=FATNA=non et Classification Risque = Moyennement élevé ou Elevé</summary>
+  <description>dans la cas ou le ROC demande une information: la demande revient vers le RA et si ce dernier réponse ( envoi l'information demandée)  la demande s'attribue au CC au lieu du ROC
+
+Merci de vérifier
+
+![image](/uploads/6fc50b604efc37f18d8c61ade6c88e86/image.png)
+![image](/uploads/d5ab681fab237aecc3c9fc39703d17f4/image.png)</description>
+  <labels>
+    <label>E-BANKA</label>
+    <label>HMLG</label>
+    <label>Verifying</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Hela Marzougui</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Hela Marzougui</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/18</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/18"/>
+  <title>e banka---acheminement erronée d&amp;#39;une demande : PPR=FATNA=non et Classificatio...</title>
+  <updated>2019-10-08T16:51:55Z</updated>
+  <media:thumbnail width="40" height="40" url="https://www.gravatar.com/avatar/7108d28e17fed58979ce5da796d2ec5e?s=80&amp;d=identicon"/>
+  <author>
+    <name>Hela Marzougui</name>
+    <email></email>
+  </author>
+  <summary>e banka---acheminement erronée d'une demande : PPR=FATNA=non et Classification Risque = Moyennement élevé ou Elevé</summary>
+  <description>BONJOUR,
+ dans ce cas, si le RA demande une information au CCM, le retour du CCM n'est pas envoyé au RA, la demande reste effectée au CCM
+
+Merci de votre avis
+
+![image](/uploads/1646fbf67736bebf18273c417348a13f/image.png)
+
+![image](/uploads/97b229eb1c7b16fa82375a2a549f199e/image.png)</description>
+  <labels>
+    <label>E-BANKA</label>
+    <label>HMLG</label>
+    <label>Verifying</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Hela Marzougui</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Hela Marzougui</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/17</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/17"/>
+  <title>Demande initié passe directement pour validation AMLO sans passer par validat...</title>
+  <updated>2019-10-08T13:28:25Z</updated>
+  <media:thumbnail width="40" height="40" url="http://gitlab-bian.uib.socgen/uploads/-/system/user/avatar/15/Screenshot_20190926-161456.jpg"/>
+  <author>
+    <name>Haythem HUIJI</name>
+    <email></email>
+  </author>
+  <summary>Demande initié passe directement pour validation AMLO sans passer par validation RA</summary>
+  <description>Bonjour,
+lors de l'initiation d'une demande Ebanka avec PPE Oui, Risque LAB faible, Statut FATCA Personne Non US, la demande passe directement pour Validation AMLO et non pas RA selon le cahier de charges.
+Merci de nous instruire [ERT_Salarié.docx](/uploads/26121d1437938008e87514ea865116b2/ERT_Salarié.docx)</description>
+  <milestone>Homologation EBANKA</milestone>
+  <labels>
+    <label>E-BANKA</label>
+    <label>HMLG</label>
+    <label>Not applicable</label>
+    <label>Verifying</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Haythem HUIJI</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Haythem HUIJI</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/15</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/15"/>
+  <title>Non possibilité de demander des informations complémentaires lors de l&amp;#39;attrib...</title>
+  <updated>2019-10-08T13:27:29Z</updated>
+  <media:thumbnail width="40" height="40" url="http://gitlab-bian.uib.socgen/uploads/-/system/user/avatar/15/Screenshot_20190926-161456.jpg"/>
+  <author>
+    <name>Haythem HUIJI</name>
+    <email></email>
+  </author>
+  <summary>Non possibilité de demander des informations complémentaires lors de l'attribution ROC pour validation</summary>
+  <description>Bonjour,
+Après l'étape "Conformité juridique validée RA" et l'attribution de la demande au ROC, il n'est pas possible de demander un complément d'information ![Commentaire_non_affiché](/uploads/e841ffc3c86616e1de096872994a7b71/Commentaire_non_affiché.png)</description>
+  <milestone>Homologation EBANKA</milestone>
+  <labels>
+    <label>E-BANKA</label>
+    <label>HMLG</label>
+    <label>Verifying</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Haythem HUIJI</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Haythem HUIJI</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/14</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/14"/>
+  <title>Ebanka---utilisation du Telephone domicile au niveau des souscriptions---</title>
+  <updated>2019-10-08T13:26:46Z</updated>
+  <media:thumbnail width="40" height="40" url="https://www.gravatar.com/avatar/7108d28e17fed58979ce5da796d2ec5e?s=80&amp;d=identicon"/>
+  <author>
+    <name>Hela Marzougui</name>
+    <email></email>
+  </author>
+  <summary>Ebanka---utilisation du Telephone domicile au niveau des souscriptions---</summary>
+  <description>Bonjour,
+
+Nous avons constaté que le N° de tel utilisé au niveau des souscriptions est celui domicile et non pas portable
+
+MercI de clarifier la situation.</description>
+  <labels>
+    <label>E-BANKA</label>
+    <label>HMLG</label>
+    <label>New Request</label>
+    <label>Verifying</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Hela Marzougui</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Hela Marzougui</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/13</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/13"/>
+  <title>EBANKA ----entité Archive n&amp;#39;existe pas---</title>
+  <updated>2019-10-08T13:24:44Z</updated>
+  <media:thumbnail width="40" height="40" url="https://www.gravatar.com/avatar/7108d28e17fed58979ce5da796d2ec5e?s=80&amp;d=identicon"/>
+  <author>
+    <name>Hela Marzougui</name>
+    <email></email>
+  </author>
+  <summary>EBANKA ----entité Archive n'existe pas---</summary>
+  <description>Bonjour,
+
+Nous avons constaté que l'entité "Archive" n'existe pas au niveau du process Jira, elle est remplacée par 'False'
+Merci de votre intervention.</description>
+  <labels>
+    <label>E-BANKA</label>
+    <label>HMLG</label>
+    <label>Verifying</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Hela Marzougui</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Hela Marzougui</name>
+    <email></email>
+  </assignee>
+</entry>
+<entry>
+  <id>http://gitlab-bian.uib.socgen/other_entities/gah/issues/12</id>
+  <link href="http://gitlab-bian.uib.socgen/other_entities/gah/issues/12"/>
+  <title>Possiblité de demander l&amp;#39;envoi des informations complémentaires pour le RA à ...</title>
+  <updated>2019-10-04T18:00:24Z</updated>
+  <media:thumbnail width="40" height="40" url="http://gitlab-bian.uib.socgen/uploads/-/system/user/avatar/15/Screenshot_20190926-161456.jpg"/>
+  <author>
+    <name>Haythem HUIJI</name>
+    <email></email>
+  </author>
+  <summary>Possiblité de demander l'envoi des informations complémentaires pour le RA à l'étape de validation ROC</summary>
+  <description>Bonjour,
+
+A l'étape validation ROC, le RA est capable de cliquer sur le bouton demander informations complémentaires ce qui provoque le changement d'attribution lors de l'envoi des informations complémentaires au RA pour validation ROC.
+
+![Validation_ROC](/uploads/c884936ee0a55e6ae5d7d64895e578eb/Validation_ROC.png)
+![Validation_ROC_apparait_au_RA](/uploads/c0ee358648bbcb246ebc87cc1e9ff0e0/Validation_ROC_apparait_au_RA.png)</description>
+  <milestone>Homologation EBANKA</milestone>
+  <labels>
+    <label>Verifying</label>
+    <label>E-BANKA</label>
+    <label>HMLG</label>
+  </labels>
+  <assignees>
+    <assignee>
+      <name>Haythem HUIJI</name>
+      <email></email>
+    </assignee>
+  </assignees>
+  <assignee>
+    <name>Haythem HUIJI</name>
+    <email></email>
+  </assignee>
+</entry>
+</feed>
